@@ -1,0 +1,5 @@
+User-agent: *
+allow: /
+disallow: /admin
+
+Sitemap: https://nammainterior.com/sitemap.xml
